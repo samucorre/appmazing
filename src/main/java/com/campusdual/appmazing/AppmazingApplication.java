@@ -9,5 +9,6 @@ public class AppmazingApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AppmazingApplication.class, args);
 	}
+//esto es un cambio
 
 }
